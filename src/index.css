@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  background-image: linear-gradient( to right ,rgba(199, 14, 14, 0.862) ,rgb(95, 39, 227));
+}
+
+h1{
+  text-shadow: 1px 2px 2px yellow,3px 3px 3px yellowgreen;
+  font-family: 'Jost',sans-serif;
+  margin-top: 40vh;
+  font-size:50px;
+  font-weight: 600;
+}
+
+
